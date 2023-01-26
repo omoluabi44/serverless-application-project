@@ -13,7 +13,7 @@ module.exports = {
     'no-console': 'off',
     'no-debugger': 'off'
   },
-  parserOptions:  {
+  parserOptions: {
     parser: 'babel-eslint'
   }
 }
